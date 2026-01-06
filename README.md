@@ -15,7 +15,7 @@ This project was developed with an educational and competitive focus, emphasizin
 - ⏲ Countdown timer
 - ⏰ Alarm with visual and buzzer indicators
 - 🎛 User interface based on **4 physical buttons**
-- 🔢 Output to **8 multiplexed 7-segment displays**
+- 🔢 Output to 8 7-segment diplays
 - 💡 LED indicators:
   - Alarm enabled
   - Alarm / timer buzzer simulation
