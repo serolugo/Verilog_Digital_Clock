@@ -101,7 +101,7 @@ The FSM ensures:
 ---
 
 ## 🖥 Display Behavior
-- **8 multiplexed 7-segment displays**
+- **8 independent 7-segment displays**
 - The two leftmost displays indicate the current mode:
   - `AL` → Alarm
   - `Cr` → Stopwatch
@@ -143,9 +143,7 @@ It highlights:
 - **HDL**: Verilog
 - **FPGA**: Terasic DE1-115
 - **Software**: Intel Quartus Prime
-- **Clock Sources**:
-  - 1 Hz – Real-time clock
-  - 1 kHz – Stopwatch and timer
+
 
 ---
 
